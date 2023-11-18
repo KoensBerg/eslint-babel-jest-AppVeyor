@@ -1,0 +1,1 @@
+# eslint-babel-jest-AppVeyor

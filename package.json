@@ -1,0 +1,19 @@
+{
+  "name": "eslint-babel-jest-appveyor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoensBerg/eslint-babel-jest-AppVeyor.git"
+  },
+  "author": "Oleg Yanke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoensBerg/eslint-babel-jest-AppVeyor/issues"
+  },
+  "homepage": "https://github.com/KoensBerg/eslint-babel-jest-AppVeyor#readme"
+}
