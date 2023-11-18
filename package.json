@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint src"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/KoensBerg/eslint-babel-jest-AppVeyor/issues"
   },
-  "homepage": "https://github.com/KoensBerg/eslint-babel-jest-AppVeyor#readme"
+  "homepage": "https://github.com/KoensBerg/eslint-babel-jest-AppVeyor#readme",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.0"
+  }
 }
